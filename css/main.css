@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+}
+
+h2 {
+    font-size: medium;
+    
+}
+
+.btn {
+    font-size: 13px;
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    background-color: lightgoldenrodyellow;
+}
+
+table {
+    display: grid;
+    justify-content: center;
+}
+
+td {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color: #d9d9d9;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.clicked {
+    background-color: aqua;
+}
